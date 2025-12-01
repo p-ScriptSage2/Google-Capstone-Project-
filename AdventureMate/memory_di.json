@@ -1,0 +1,161 @@
+{
+  "trips": [
+    {
+      "user_prefs": {
+        "duration_days": 4,
+        "region": "Manali, Himachal Pradesh",
+        "adventure_type": "trekking",
+        "fitness_level": "moderate",
+        "budget": "low",
+        "people": 2,
+        "avoid": []
+      },
+      "days": [
+        {
+          "legs": [],
+          "total_hours": 0
+        },
+        {
+          "legs": [
+            {
+              "trail_id": "t2",
+              "name": "Valley View Trek",
+              "duration": 10,
+              "weather": {
+                "location": "Manali",
+                "timestamp": "2025-12-01T15:02:45.857899Z",
+                "summary": "Partly cloudy. Small chance of afternoon rain.",
+                "temperature_c": 16
+              }
+            }
+          ],
+          "total_hours": 10
+        },
+        {
+          "legs": [
+            {
+              "trail_id": "t5",
+              "name": "Alpine Pass",
+              "duration": 12,
+              "weather": {
+                "location": "Manali",
+                "timestamp": "2025-12-01T15:02:45.857964Z",
+                "summary": "Partly cloudy. Small chance of afternoon rain.",
+                "temperature_c": 16
+              }
+            }
+          ],
+          "total_hours": 12
+        },
+        {
+          "legs": [
+            {
+              "trail_id": "t1",
+              "name": "Pine Ridge Loop",
+              "duration": 6,
+              "weather": {
+                "location": "Manali",
+                "timestamp": "2025-12-01T15:02:45.857985Z",
+                "summary": "Partly cloudy. Small chance of afternoon rain.",
+                "temperature_c": 16
+              }
+            }
+          ],
+          "total_hours": 6
+        }
+      ],
+      "checklist": [
+        "Water bottle (2L+)",
+        "Hiking shoes",
+        "Sun protection (sunscreen, hat)",
+        "Basic first-aid kit",
+        "Personal ID and permits (if required)",
+        "Sleeping bag and lightweight shelter",
+        "Budget-friendly snacks"
+      ],
+      "meta": {
+        "generator": "ItineraryAgent",
+        "version": "1.0"
+      }
+    },
+    {
+      "user_prefs": {
+        "duration_days": 4,
+        "region": "Manali, Himachal Pradesh",
+        "adventure_type": "trekking",
+        "fitness_level": "moderate",
+        "budget": "low",
+        "people": 2,
+        "avoid": []
+      },
+      "days": [
+        {
+          "legs": [],
+          "total_hours": 0
+        },
+        {
+          "legs": [
+            {
+              "trail_id": "t2",
+              "name": "Valley View Trek",
+              "duration": 10,
+              "weather": {
+                "location": "Manali",
+                "timestamp": "2025-12-01T15:02:58.255555Z",
+                "summary": "Partly cloudy. Small chance of afternoon rain.",
+                "temperature_c": 16
+              }
+            }
+          ],
+          "total_hours": 10
+        },
+        {
+          "legs": [
+            {
+              "trail_id": "t5",
+              "name": "Alpine Pass",
+              "duration": 12,
+              "weather": {
+                "location": "Manali",
+                "timestamp": "2025-12-01T15:02:58.255663Z",
+                "summary": "Partly cloudy. Small chance of afternoon rain.",
+                "temperature_c": 16
+              }
+            }
+          ],
+          "total_hours": 12
+        },
+        {
+          "legs": [
+            {
+              "trail_id": "t1",
+              "name": "Pine Ridge Loop",
+              "duration": 6,
+              "weather": {
+                "location": "Manali",
+                "timestamp": "2025-12-01T15:02:58.255679Z",
+                "summary": "Partly cloudy. Small chance of afternoon rain.",
+                "temperature_c": 16
+              }
+            }
+          ],
+          "total_hours": 6
+        }
+      ],
+      "checklist": [
+        "Water bottle (2L+)",
+        "Hiking shoes",
+        "Sun protection (sunscreen, hat)",
+        "Basic first-aid kit",
+        "Personal ID and permits (if required)",
+        "Sleeping bag and lightweight shelter",
+        "Budget-friendly snacks"
+      ],
+      "meta": {
+        "generator": "ItineraryAgent",
+        "version": "1.0"
+      }
+    }
+  ],
+  "preferences": {}
+}
