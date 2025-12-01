@@ -1,0 +1,3 @@
+AdventureMate — Multi-Agent AI for Personalized Adventure Travel Planning
+*Fast, safe, and personalized adventure trip planning using multi-agent LLMs, memory, tools, and observability.*
+AdventureMate is a multi-agent system that automates personalised adventure travel planning for hikers, trekkers, and small groups. It produces weather-aware, safety-informed, day-by-day itineraries and supports dynamic replanning, booking assistance, and long-term user memories. The agent architecture was designed specifically to address the complexity of adventure travel: multiple parallel data sources, safety constraints, route optimization, and changing conditions (weather/closures).
